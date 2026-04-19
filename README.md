@@ -1,11 +1,13 @@
 # WatchMood backend
 
+The backend for an multi-agent workflow to recommend movies.
+
 ## Tech Stack
 
-Pydantic AI — agent framework + structured outputs
-ChromaDB — two collections (movie overviews, user reviews)
-TMDB API — live ratings, metadata, search
-FastAPI - Backend stuff
+- Pydantic AI — agent framework + structured outputs
+- ChromaDB — two collections (movie overviews, user reviews)
+- TMDB API — live ratings, metadata, search
+- FastAPI - API for frontend
 
 ## Set Up Commands
 
