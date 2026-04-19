@@ -1,4 +1,4 @@
-# WatchMood backend
+# WatchMood Backend
 
 The backend for an multi-agent workflow to recommend movies. Frontend repo [here](https://github.com/parthhc/watchmood-frontend), will need both to run.
 
